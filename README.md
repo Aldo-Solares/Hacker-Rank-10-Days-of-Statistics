@@ -27,6 +27,10 @@ El repositorio está organizado en carpetas que corresponden a los niveles de di
 
 Las variables en el código están en inglés para asegurar un mayor alcance en la documentación.
 
+## 📝⚒️ Nota - 2
+
+Este repositorio aun se encuentra en desarrollo.
+
 ## 🛠️ Requisitos
 
 Para ejecutar los códigos de este repositorio, necesitarás:
