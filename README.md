@@ -10,7 +10,7 @@ Este repositorio tiene como propósito compartir mis soluciones al ir aprendiend
 
 ## 📂 Estructura del Repositorio
 
-El repositorio está organizado en días.
+El repositorio está organizado en una carpeta que contiene los desafíos enumerados por días:
 
 - **10 Days of Statistics**: Soluciones a los problemas del reto "10 Days of Statistics".
   
